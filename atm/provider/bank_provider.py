@@ -15,8 +15,6 @@ class ResponseHandler:
 
 
 class BankAPIProvider:
-    # BankAPI provider must no be dependent to the provider
-    # provider will not know which api specific
     # Response handler will handler api's response
     # handler could be dependent to api
 
